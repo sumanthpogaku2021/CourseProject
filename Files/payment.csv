@@ -1,0 +1,4 @@
+LoanId,typeID,PaymentDate,Amountpaid,Remark
+1,2,2021-10-22,1200,partially pending
+2,1,2021-07-10,1600,paid
+3,3,2021-10-11,1500,paid
